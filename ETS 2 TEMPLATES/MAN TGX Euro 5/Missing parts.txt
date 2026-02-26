@@ -1,0 +1,6 @@
+The templates for the following parts are so tiny that they don't export properly. They're all squished into the corners of the image.
+
+Main texture:
+Sun Visor - Samurai: bottom left corner
+Main Mirrors: bottom left corner
+Door Handles: bottom left corner
