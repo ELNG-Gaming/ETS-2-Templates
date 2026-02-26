@@ -1,0 +1,6 @@
+The templates for the following parts are so tiny that they don't export properly. They're all squished into the corners of the image.
+
+Accessories:
+Rear Bumper - Legatus: top left corner
+Rear Bumper - Centurion: top left corner
+Rear Bumper - Thor: top left corner
