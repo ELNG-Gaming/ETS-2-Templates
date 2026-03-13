@@ -1,0 +1,13 @@
+The templates for the following parts are so tiny that they don't export properly. They're all squished into the corners of the image.
+
+Main texture:
+Sun Visor - Samurai: bottom left corner
+Rear Exhaust - Gibbus: top left corner
+Rear Exhaust - Collimation: top right corner
+Rear Exhaust - DAF Eidhoven: top right corner
+
+Accessories:
+Rear Bumper - Celeritas: bottom left corner
+Rear Bumper - Centurion: bottom left corner
+Rear Bumper - Thor: bottom left corner
+Chassis Cover - Diva: top left corner (plus the template)
